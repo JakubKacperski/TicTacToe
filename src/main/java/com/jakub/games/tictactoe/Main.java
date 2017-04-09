@@ -30,7 +30,7 @@ class Main {
             checker.setCoordinates(y, x);
             board.putToBoard(checker);
             board.renderBoard();
-            System.out.println(result);
+
 
         }
 
